@@ -35,5 +35,4 @@ We'll use the Geolocation API to get the user's current location and display the
 link to preview
 <br>
 <a href="https://shibaram-sathua.github.io/Weather-Dashboard/" type="_blank">https://shibaram-sathua.github.io/Weather-Dashboard/</a>
-Input field for users to type in the name of a city.
-Button to trigger the weath
+
